@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AppCelulares</string>
+    <string name="agregar">Agregar</string>
+    <string name="marca">Marca</string>
+    <string name="precio">Precio</string>
+    <string name="capacidad_ram">Capacidad de RAM</string>
+    <string name="color">Color</string>
 </resources>

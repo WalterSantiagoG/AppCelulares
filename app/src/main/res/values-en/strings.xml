@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppCelulares</string>
+    <string name="agregar">ADD</string>
+    <string name="capacidad_ram">RAM capacity</string>
+    <string name="color">Color</string>
+    <string name="crear">CREATE</string>
+    <string name="guardar">SAVE</string>
+    <string name="limpiar">CLEAN</string>
+    <string name="listar">TO LIST</string>
+    <string name="marca">Brand</string>
+    <string name="mensaje_exitoso">Cell Phone Saved Successfully!</string>
+    <string name="precio">Price</string>
+    <string name="reportes">REPORTS</string>
+    <string name="promedio_marca_nokia">Average nokia cell phones</string>
+</resources>

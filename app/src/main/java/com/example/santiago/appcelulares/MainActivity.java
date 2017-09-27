@@ -42,6 +42,14 @@ public class MainActivity extends AppCompatActivity {
                         in = new Intent(MainActivity.this,PromedioMarcaNokia.class);
                         startActivity(in);
                         break;
+                    case 3:
+                        in = new Intent(MainActivity.this,NumeroDeCelularesAppleNegro.class);
+                        startActivity(in);
+                        break;
+                    case 4:
+                        in = new Intent(MainActivity.this,SamsungCapacidadDe2A4GB.class);
+                        startActivity(in);
+                        break;
                 }
             }
         });

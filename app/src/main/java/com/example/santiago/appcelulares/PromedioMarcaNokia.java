@@ -17,9 +17,9 @@ public class PromedioMarcaNokia extends AppCompatActivity {
 
     private EditText resultadotxt;
 
-    int resultado;
-    int preciooo;
-    int cont;
+    int resultado=0;
+    int preciooo=0;
+    int cont=0;
     private ArrayList<Celular> celulares;
 
     @Override
@@ -38,8 +38,12 @@ public class PromedioMarcaNokia extends AppCompatActivity {
            }
         }
 
-        resultado = preciooo/cont;
-        resultadotxt.setText(""+resultado);
+        if (cont != 0){
+            resultado = preciooo/cont;
+            resultadotxt.setText(""+resultado);
+        }else{
+            resultadotxt.setText("0");
+        }
 
     }
 

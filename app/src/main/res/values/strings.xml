@@ -11,10 +11,14 @@
         <item>@string/crear</item>
         <item>@string/listar</item>
         <item>@string/promedio_marca_nokia</item>
+        <item>@string/cantidad_celulares_apple_negro</item>
+        <item>@string/datos_samsung_capacidad_de_2_a_4_gb_ram</item>
     </array>
     <string name="crear">Crear</string>
     <string name="listar">Listar</string>
     <string name="mensaje_exitoso">Celular Guardado Exitosamente!</string>
     <string name="reportes">reportes</string>
     <string name="promedio_marca_nokia">Promedio celulares marca nokia</string>
+    <string name="cantidad_celulares_apple_negro">Cantidad de celulares marca apple con color negro</string>
+    <string name="datos_samsung_capacidad_de_2_a_4_gb_ram">Datos de celulares samsung de 2gb a 4gb de RAM</string>
 </resources>

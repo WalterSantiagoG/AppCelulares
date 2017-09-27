@@ -16,9 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".CrearCelulares" />.
-        <activity android:name=".ListarCelulares" />.
+        <activity android:name=".CrearCelulares" />
+        <activity android:name=".ListarCelulares" />
         <activity android:name=".PromedioMarcaNokia"/>
+        <activity android:name=".NumeroDeCelularesAppleNegro"/>
+        <activity android:name=".SamsungCapacidadDe2A4GB"/>
 
     </application>
 

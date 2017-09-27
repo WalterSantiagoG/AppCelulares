@@ -13,4 +13,6 @@
     <string name="precio">Price</string>
     <string name="reportes">REPORTS</string>
     <string name="promedio_marca_nokia">Average nokia cell phones</string>
+    <string name="cantidad_celulares_apple_negro">Number of apple brand cell phones with black color</string>
+    <string name="datos_samsung_capacidad_de_2_a_4_gb_ram">Samsung cell phone from 2GB to 4GB RAM</string>
 </resources>
